@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "cmakedomain",
+  "versions": [
+    {
+      "commit": "df970be527b41842939d2368195ab3aed8428428",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:41:31.214718+00:00"
+    }
+  ]
+}
